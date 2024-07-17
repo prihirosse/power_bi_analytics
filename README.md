@@ -3,7 +3,7 @@
 
 ### Desafio Power BI | Coleta e Processamento de dados com Power BI|
 
-Respositório para armazenar o relatório contendo dados transformados e processados conforme apontado nas diretrizes de transformação destes abaixo.
+Repositório para armazenar o relatório contendo dados transformados e processados conforme apontado nas diretrizes de transformação destes abaixo.
 
 
 ## 📌 Objetivo Geral
